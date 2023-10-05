@@ -2,6 +2,8 @@
 
 Uiua: https://www.uiua.org/
 
+Compatible with Uiua v0.0.16
+
 Run:
 
 ```
