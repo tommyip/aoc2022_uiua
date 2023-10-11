@@ -4,6 +4,6 @@
 
 # (Monadic function)
 # Like ∊ member but works on an array of elements
-∍ ← ∧(|2 ▽∊,⊙!)⊃(!⊢)'↘1
+∍ ← ∧(▽∊,⊙⊔)⊃'⊔⊢'↘1
 
 ⯒_∍

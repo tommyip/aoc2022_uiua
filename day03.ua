@@ -1,6 +1,6 @@
-lib ← &i "lib.ua"
-⯒ ← use "⯒" lib
-∍ ← use "∍" lib
+Lib ← &i "lib.ua"
+⯒ ← use "⯒" Lib
+∍ ← use "∍" Lib
 💾 ← &fras "inputs/day03.txt"
 ∑ ← /+∵(-@\0?'-96'-38≥@a.)
 # part 1
